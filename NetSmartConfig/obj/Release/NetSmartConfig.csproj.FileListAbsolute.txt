@@ -1,0 +1,13 @@
+H:\Espcloud\NetSmartConfig\NetSmartConfig\bin\Release\NetSmartConfig.exe.config
+H:\Espcloud\NetSmartConfig\NetSmartConfig\bin\Release\NetSmartConfig.exe.manifest
+H:\Espcloud\NetSmartConfig\NetSmartConfig\bin\Release\NetSmartConfig.application
+H:\Espcloud\NetSmartConfig\NetSmartConfig\bin\Release\NetSmartConfig.exe
+H:\Espcloud\NetSmartConfig\NetSmartConfig\bin\Release\NetSmartConfig.pdb
+H:\Espcloud\NetSmartConfig\NetSmartConfig\bin\Release\ManagedWifi.dll
+H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Release\NetSmartConfig.Form1.resources
+H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Release\NetSmartConfig.Properties.Resources.resources
+H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Release\NetSmartConfig.csproj.GenerateResource.Cache
+H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Release\NetSmartConfig.exe.manifest
+H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Release\NetSmartConfig.application
+H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Release\NetSmartConfig.exe
+H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Release\NetSmartConfig.pdb
