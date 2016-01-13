@@ -40,7 +40,3 @@ H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Debug\NetSmartConfig.csprojResolve
 H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Debug\NetSmartConfig.Form1.resources
 H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Debug\NetSmartConfig.Properties.Resources.resources
 H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Debug\NetSmartConfig.csproj.GenerateResource.Cache
-H:\Espcloud\NetSmartConfig\NetSmartConfig\bin\Debug\NetSmartConfig.exe.manifest
-H:\Espcloud\NetSmartConfig\NetSmartConfig\bin\Debug\NetSmartConfig.application
-H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Debug\NetSmartConfig.exe.manifest
-H:\Espcloud\NetSmartConfig\NetSmartConfig\obj\Debug\NetSmartConfig.application
